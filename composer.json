@@ -1,0 +1,22 @@
+{
+    "name": "cri2net/php-singleton",
+    "type": "library",
+    "description": "PHP Trait Singleton",
+    "authors": [
+        {
+            "name": "Andrey Davidovich",
+            "email": "cri2net@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "cri2net\\php_singleton\\": "src"
+        }
+    },
+    "license": "proprietary"
+}
