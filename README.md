@@ -1,8 +1,8 @@
 # README #
 
-Это php trait для реализации паттерна Singleton;
+This is php trait for Singleton pattern;
 
-## Использование:
+## Usage:
 
 ```
 <?php
@@ -17,4 +17,6 @@ class YourClass
     code of your class
     */
 }
+
+$obj = YourClass::getInstance();
 ```

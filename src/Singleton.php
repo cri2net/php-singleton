@@ -1,4 +1,5 @@
 <?php
+
 namespace cri2net\php_singleton;
 
 trait Singleton
